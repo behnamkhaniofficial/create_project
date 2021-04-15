@@ -43,6 +43,7 @@ Source package (default: demo):
 
 The init task generates the new project with the following structure:
 
+
 Groovy
 ├── gradle 
 │   └── wrapper
@@ -96,6 +97,8 @@ Groovy
                         ├── JoinUtils.java
                         ├── SplitUtils.java
                         └── StringUtils.java
+
+
 
 Kotlin
 ├── gradle 
